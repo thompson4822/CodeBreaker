@@ -6,7 +6,7 @@ Introducing Codebreaker
 
 Codebreaker is a logic game in which a code-breaker tries to break a
 secret code created by a code-maker. The code-maker, which will be
-played by the application we’re going to write, creates a secret code of
+played by the application weï¿½re going to write, creates a secret code of
 four numbers between 1 and 6.
 
 The code-breaker then gets some number of chances to break the code.
@@ -28,7 +28,7 @@ The - is for the 4 in the first position in the guess, which matches the 4
 in the code but not in the same position: a number match.
 
 The plus signs for the exact matches always come before the minus
-signs for the number matches and don’t align with specific positions in
+signs for the number matches and donï¿½t align with specific positions in
 the guess or the secret code.
  */
 
